@@ -2,6 +2,8 @@ import 'package:football_news/screens/menu.dart';
 import 'package:flutter/material.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
+
+// Halaman register
 import 'package:football_news/screens/register.dart';
 
 void main() {
@@ -154,30 +156,14 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 36.0),
                   GestureDetector(
-                    onTap: () {    
+                    onTap: () {
+                      // Navigasi ke halaman register
                       Navigator.push(
                         context,
                         MaterialPageRoute(
                           builder: (context) => const RegisterPage(),
                         ),
-                      );                  
-                      // showDialog(
-                      //   context: context,
-                      //   builder: (context) => AlertDialog(
-                      //     title: const Text('Info'),
-                      //     content: const Text(
-                      //       'We will create the register page later',
-                      //     ),
-                      //     actions: [
-                      //       TextButton(
-                      //         child: const Text('OK'),
-                      //         onPressed: () {
-                      //           Navigator.pop(context);
-                      //         },
-                      //       ),
-                      //     ],
-                      //   ),
-                      // );
+                      );                                   //  
                     },
                     child: Text(
                       'Don\'t have an account? Register',
