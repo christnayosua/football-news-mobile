@@ -1,18 +1,9 @@
 # football_news
 
-Try to trigger push
+## My Application
 
-A new Flutter project.
+[![Build Status](https://app.bitrise.io/app/0caef4dd-91e1-4321-9dc1-5707fc7b3349/status.svg?token=zNrZFcBUEXkS61RUPB06Iw&branch=master)](https://app.bitrise.io/app/0caef4dd-91e1-4321-9dc1-5707fc7b3349)
 
-## Getting Started
+## Download here 👇
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://app.bitrise.io/app/0caef4dd-91e1-4321-9dc1-5707fc7b3349/installable-artifacts/b8f787043418757d/public-install-page/a4752ba6fec8cbc0c559e5fbae2deea2
